@@ -1,2 +1,3 @@
 hello now is the test txt.
-it is just for test.
+it is just for test
+add a new line.
